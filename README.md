@@ -1,8 +1,10 @@
-[![Demo](https://github.com/c33av1/angular-electron/blob/master/demo.gif?raw=true)]
-
 # AngularElectron
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.9.
+
+## Demo
+
+[![Demo](https://github.com/c33av1/angular-electron/blob/master/demo.gif?raw=true)]
 
 ## Development server
 
